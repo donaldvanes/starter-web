@@ -18,5 +18,7 @@ Deploy as needed via github
 
 ## How To Contribute
 
+Please fork this repo and then issue pull req
+
 ### Copyright
 Copyright 2020
