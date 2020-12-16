@@ -17,3 +17,6 @@ See introduction
 Deploy as needed via github
 
 ## How To Contribute
+
+### Copyright
+Copyright 2020
