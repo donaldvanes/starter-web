@@ -10,7 +10,10 @@ This is an example to show differences between Git Repo and Github
 ## Purpose
 
 Sample website with plenty of files for demos
+See introduction
 
 ## Deployment
+
+Deploy as needed via github
 
 ## How To Contribute
